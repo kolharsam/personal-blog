@@ -38,10 +38,6 @@ module.exports = {
           {
             name: 'LinkedIn',
             url: 'https://www.linkedin.com/in/sameer-kolhar-50902717b/',
-          },
-          {
-            name: 'Mail',
-            url: 'mailto:me@kolharsam.dev'
           }
         ],
       },
