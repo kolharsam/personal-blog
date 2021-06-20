@@ -8,7 +8,7 @@ const trackingId = process.env.GOOGLE_ANALYTICS_ID;
 module.exports = {
   siteMetadata: {
     siteTitleAlt: `kolharsam`,
-    siteTitle: 'Sameer Kolhar Personal Blog',
+    siteTitle: 'Sameer Kolhar',
     author: '@kolharsam',
     image: 'https://site.groupe-psa.com/content/uploads/sites/9/2016/12/white-background-2-768x450.jpg',
     url: "https://kolharsam.dev"
