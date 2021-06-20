@@ -340,12 +340,11 @@ See you in a future post while exploring the same idea within Rust 🦀 and Type
 
 --- 
 
-import { Disqus } from 'gatsby-plugin-disqus';
+import Comments from '../../components/Comments';
 
-<Disqus
-  config={{
-      url: '/introduction-to-transducers',
-      identifier: 'introduction-to-transducers',
-      title: 'Introduction to Transducers',
+<Comments
+  post={{
+    identifier: 'introduction-to-transducers',
+    title: 'Introduction to Transducers',
   }}
 />
