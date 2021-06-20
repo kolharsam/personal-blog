@@ -17,8 +17,6 @@
   },
   "dependencies": {
     "@lekoarts/gatsby-theme-minimal-blog": "^2.7.3",
-    "@theme-ui/color": "^0.10.0",
-    "@theme-ui/presets": "^0.10.0",
     "gatsby": "^2.25.3",
     "gatsby-plugin-gatsby-cloud": "^1.0.1",
     "gatsby-plugin-google-analytics": "^2.4.1",
@@ -29,7 +27,6 @@
     "gatsby-plugin-webpack-bundle-analyser-v2": "^1.1.13",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "theme-ui": "^0.10.0",
     "use-comments": "^1.0.1"
   },
   "devDependencies": {
