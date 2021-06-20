@@ -1,9 +1,11 @@
 import React from 'react';
 import { Disqus, CommentCount } from 'gatsby-plugin-disqus';
 
+// NOTE: make sure to check the identifier before each post 
+
 const Comments = ({ post }) => {
   let disqusConfig = {
-    url: `https://kolharsam.dev/${window.location.pathname}`,
+    url: `https://kolharsam.dev/${post.identifier}`,
     identifier: post.id,
     title: post.title,
   }
