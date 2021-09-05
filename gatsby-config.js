@@ -44,7 +44,7 @@ module.exports = {
         },
         {
           name: 'LinkedIn',
-          url: 'www.linkedin.com/in/kolharsam',
+          url: 'https://www.linkedin.com/in/kolharsam',
         }
       ],
     },
