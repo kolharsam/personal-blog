@@ -44,7 +44,7 @@ module.exports = {
         },
         {
           name: 'LinkedIn',
-          url: 'https://www.linkedin.com/in/sameer-kolhar-50902717b/',
+          url: 'www.linkedin.com/in/kolharsam',
         }
       ],
     },
